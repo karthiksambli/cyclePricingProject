@@ -1,5 +1,5 @@
 # cyclePricingProject
-Project without consideration of errors/exceptions 
+# This Project is built without consideration of any errors/exceptions. 
 
 * created cyclePricingModule as required below.
 
